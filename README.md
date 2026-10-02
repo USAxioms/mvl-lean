@@ -2,6 +2,10 @@
 
 Lean 4 derivative of the **Foundational Canonical Specification for Machine-Verifiable Law** (Universal Standard Axiom Corporation, October 2026). Under the specification's derivation rule, this repository is a controlled derivative of the canonical semantic root: it carries no authority of its own.
 
+**Author / Entity:** Universal Standard Axiom Corporation  
+**ORCID:** [0009-0001-3360-6709](https://orcid.org/0009-0001-3360-6709)  
+**Research Preprint DOI:** [10.13140/RG.2.2.25198.57928](https://dx.doi.org/10.13140/RG.2.2.25198.57928)
+
 BEGIN WITH PURPOSE. END IN TRUTH.
 
 Pure Lean 4 core: no Mathlib, no external dependencies.
